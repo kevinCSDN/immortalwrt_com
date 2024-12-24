@@ -91,7 +91,7 @@
 
 克隆passwall环境插件
 git clone https://github.com/xiaorouji/openwrt-passwall-packages.git package/pwpage
-
+git clone https://github.com/immortalwrt/homeproxy.git package/pwpage
 克隆的源码放在small文件夹,预先建立small文件夹
 mkdir package/small
 pushd package/small
